@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[79788,["/_next/static/chunks/e4587d83d956fccb.js","/_next/static/chunks/4a0123ad5e97fa9d.js","/_next/static/chunks/f4aff60db33e6892.js","/_next/static/chunks/fd76bbc3a0abcfe8.js","/_next/static/chunks/6abcedd6d3904113.js","/_next/static/chunks/47189825653c816b.js","/_next/static/chunks/db799de7fcc39270.js","/_next/static/chunks/aa06de13af9c8f59.js","/_next/static/chunks/196987da498adca7.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"H6JMiwINliB3tdPT7H1G7","rsc":["$","$1","c",{"children":[["$","$L2",null,{"initialTech":[{"id":8,"category":"Frontend","skills":["ReactJs","NextJs","Tailwind","Bootstrap","HTML","CSS"]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/db799de7fcc39270.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/aa06de13af9c8f59.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/196987da498adca7.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
